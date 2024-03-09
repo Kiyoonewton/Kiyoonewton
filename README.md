@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kiyoonewtin" target="blank"><img src="https://img.shields.io/twitter/follow/kiyoonewtin?logo=twitter&style=for-the-badge" alt="kiyoonewtin" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS microService**
+- 🌱 I’m currently learning C-Programming
 
 - 💬 Ask me about **MERN, React, ReactNative NodeJs**
 
