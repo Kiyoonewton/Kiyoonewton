@@ -1,5 +1,5 @@
 [![MasterHead](https://static.vscdn.net/images/careers/demo/booking/1648625147::HeroCampaign_Motion_v2.gif)](https://linkedin.com/in/kiyoonewton)
-<h1 align="center">Hi 👋, I'm Kolawole Isaac</h1>
+<h1 align="center">Hi 👋, I am Kolawole Isaac</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
